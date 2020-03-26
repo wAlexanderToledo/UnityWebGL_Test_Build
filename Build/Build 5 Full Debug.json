@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Build 5 Full Debug.data.unityweb",
+"wasmCodeUrl": "Build 5 Full Debug.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 5 Full Debug.wasm.framework.unityweb",
+"asmCodeUrl": "Build 5 Full Debug.asm.code.unityweb",
+"asmMemoryUrl": "Build 5 Full Debug.asm.memory.unityweb",
+"asmFrameworkUrl": "Build 5 Full Debug.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
