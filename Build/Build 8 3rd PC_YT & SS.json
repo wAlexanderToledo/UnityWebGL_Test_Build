@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Build 8 3rd PC_YT & SS.data.unityweb",
+"wasmCodeUrl": "Build 8 3rd PC_YT & SS.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 8 3rd PC_YT & SS.wasm.framework.unityweb",
+"asmCodeUrl": "Build 8 3rd PC_YT & SS.asm.code.unityweb",
+"asmMemoryUrl": "Build 8 3rd PC_YT & SS.asm.memory.unityweb",
+"asmFrameworkUrl": "Build 8 3rd PC_YT & SS.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
