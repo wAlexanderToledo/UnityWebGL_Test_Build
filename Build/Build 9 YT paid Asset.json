@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Build 9 YT paid Asset.data.unityweb",
+"wasmCodeUrl": "Build 9 YT paid Asset.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 9 YT paid Asset.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Build 9 YT paid Asset.wasm.symbols.unityweb",
+"asmCodeUrl": "Build 9 YT paid Asset.asm.code.unityweb",
+"asmMemoryUrl": "Build 9 YT paid Asset.asm.memory.unityweb",
+"asmFrameworkUrl": "Build 9 YT paid Asset.asm.framework.unityweb",
+"asmSymbolsUrl": "Build 9 YT paid Asset.asm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
