@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.data.unityweb",
+"wasmCodeUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.wasm.symbols.unityweb",
+"asmCodeUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.asm.code.unityweb",
+"asmMemoryUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.asm.memory.unityweb",
+"asmFrameworkUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.asm.framework.unityweb",
+"asmSymbolsUrl": "Build 10 YT paid Asset with AudioPlayer Full W Stacktrace.asm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
