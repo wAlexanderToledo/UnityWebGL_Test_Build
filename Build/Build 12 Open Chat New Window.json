@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Build 12 Open Chat New Window.data.unityweb",
+"wasmCodeUrl": "Build 12 Open Chat New Window.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 12 Open Chat New Window.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Build 12 Open Chat New Window.wasm.symbols.unityweb",
+"asmCodeUrl": "Build 12 Open Chat New Window.asm.code.unityweb",
+"asmMemoryUrl": "Build 12 Open Chat New Window.asm.memory.unityweb",
+"asmFrameworkUrl": "Build 12 Open Chat New Window.asm.framework.unityweb",
+"asmSymbolsUrl": "Build 12 Open Chat New Window.asm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
